@@ -1,0 +1,9 @@
+#python
+*.pyc
+*~__pycache__
+
+
+#Env
+.Env
+myven/
+venv/
